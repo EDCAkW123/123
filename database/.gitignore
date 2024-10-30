@@ -1,4 +1,4 @@
-!database/database.sqlite
+!database.sqlite
 *.sqlite
 *.sqlite-journal
 !database/database.sqlite
